@@ -1,4 +1,4 @@
-# Code party（コード懇親会）
+# Code party
 
   * For [RubyKaigi 2024](rubykaigi-2024/)
 

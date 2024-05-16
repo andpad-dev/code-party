@@ -1,0 +1,17 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    とても楽しい時間でした。
+    Rails意外のコードを書くことに慣れてないませんでしたが、やりたいことを用意していたおかげで、グループのメンバーに協力してもらい４０％くらい進捗できました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - rspec-openapi
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    コード懇親会の企画ありがとうございました。恐る恐るの参加でしたが参加してよかったです。MINASWANを体験できた気がしています。 :)

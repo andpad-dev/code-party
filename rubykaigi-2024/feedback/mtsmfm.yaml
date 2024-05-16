@@ -1,0 +1,20 @@
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    最高に楽しかったです!
+    型周りについて疑問に思っていたことを Sorbet メンテナの方々と話ができてとても有意義でした。
+    特に paracycle さんと一度お話したかったのでついにお会いできて嬉しかったです。
+    Sorbet の実装についてや Steep の改善についてもその場でモブプロのようなことができてとても勉強になりました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Group2 (RBS, Type)
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    コード懇親会は初めてでしたが、説明や流れがスムーズで参加しやすかったです。ありがとうございました!

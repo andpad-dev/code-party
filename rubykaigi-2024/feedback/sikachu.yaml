@@ -1,0 +1,9 @@
+questions:
+  fun: |
+    It was fun! We took a look at Active Record Join interface together, and
+    helping another developer to get their Active Record development environment
+    setup.
+  groups:
+    - Group 7
+  etc: |
+    It'd be nice to have a bit more food! Looking forward to the next time!

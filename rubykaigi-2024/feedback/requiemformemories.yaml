@@ -1,0 +1,11 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    |
+    I had fun here! The most fun part is to meet new friends here!
+  groups:
+    - Ruby WASM
+  etc:
+    |
+    Although most of the members in the group did not familiar with Ruby WASM, we try to discover it together. We try some quick examples in the Ruby WASM webpage and we tried the stuff @Largo built. I also try to draw some shapes with Ruby Wasm and I am still trying to figure out how to make animations. It was an enjoyable time!

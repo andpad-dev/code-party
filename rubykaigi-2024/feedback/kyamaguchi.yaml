@@ -1,0 +1,23 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    Yes I did.
+    I have been interested in the topic but I've never started it.
+    Today, I could code with some members who are also new on the topic
+    and some other members who have experience on it.
+    I'd like to attend this kind of event again.
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Wasm
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    The venue was really good. (Power supply, monitors and good chairs etc.)

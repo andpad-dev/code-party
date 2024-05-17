@@ -1,0 +1,25 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです。
+    WASMに興味はあったけれどこれまで試したことがありませんでした。
+    このイベントで、ruby-wasm のチュートリアルから始めて、WASM が動くことを確かめるところからスタートし、
+    想像していたよりもずっと簡単に動くことが分かりました。
+    WASM に詳しい YC さんにいろいろと教えてもらいながら、ruby-wasm だけでなく、他の言語と WASM との関係や、
+    ブラウザ以外にも WASM の利用が広がっていることを教えてもらい、WASM について知ることができました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - WASM
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    他のグループのことも気になったけれど、時間も限られていたので他のグループの活動をほとんど知ることができませんでした。
+    またこのようなイベントに参加できる機会があったら参加して、他の分野についても知りたいと思いました。

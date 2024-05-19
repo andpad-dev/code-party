@@ -1,0 +1,32 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    (Answer)
+    Yes, I had fun participating in this collaboration and observing the thinking processes and communication of skilled engineers.
+    One of the members brought a practical problem with a well-defined boundary, suitable for a 2 hour discussion in my opinion.
+    @cindyliu923 and I were the only two non-native Japanese speakers in the group, but with a mix of slow-spoken Japanese, a bit of English, and sketches on a whiteboard (and of course, in Ruby!), everyone was kind and patient in explaining their thoughts and the challenges we faced.
+    There were some interesting challenges that I had never considered before and plan to explore further...
+    For example, when we tried to check some variables with binding.irb and pp, no new clues were revealed.
+    Someone suggested this might be due to two running rspec processes, another member proposed using IO.write, and another found some critical typos.
+    In the end, we made some progress together!
+
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - rspec-openai
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    (Answer)
+    I am really grateful to the hosts for arranging this extraordinary event! The experience was truly inspiring ~
+    Initially, I intended to join two rounds on different topics and try to collaborate with some esteemed contributors, but I found it challenging to do so within a 2-3 hour time limitation.
+    Considering that unless someone is quite experienced in the community, it's difficult for an individual to gather people and organize such an event, including food and venue... I sincerely hope this event is held every year. If possible, please organize more of them!
+
+

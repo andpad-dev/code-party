@@ -1,0 +1,23 @@
+# 共催したアンドパッド (andpad_dev) とさくらインターネット (sakura_pr) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# Our co-hosts, ANDPAD (andpad_dev) and SAKURA Internet (sakura_pr), share technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    (Answer)Yes。最初に話題を決め、それに併せて実現したいことが実装可能か考えるために、ActiveRecordの実装をみんなで読んだ。
+    一人で読むのではなく、お互いの視点をそれぞれ併せながら、ワイワイ協力しながらできたのが楽しかった。
+    また、言語の壁も多少あったが、コードもコミュニケーションのツールとして活用しながら会話できたのが楽しかった。
+
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - (Group7) データ処理
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    最初に何をするか決めるまでに時間がかかった。
+    みんなで1つのディスプレイを見ながら作業できたのが良かった。もしディスプレイがなければ、小さいホワイトボード等があっても良さそうだなと思った。

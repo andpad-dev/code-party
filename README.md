@@ -1,5 +1,6 @@
 # Code party
 
+  * For [RubyKaigi 2025](rubykaigi-2025/)
   * For [RubyKaigi 2024](rubykaigi-2024/)
 
 ## License

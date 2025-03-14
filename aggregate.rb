@@ -12,16 +12,11 @@ end
 questionnaires = {}
 Dir.chdir(__dir__) do
   Dir.glob("#{event}/feedback/*.yaml").sort.each do |yaml|
-    case File.basename(yaml)
-    when "template.yaml"
-      next
-    when /\.yaml\Z/
-      account = Regexp.last_match.pre_match
-      begin
-        questionnaires[account] = YAML.load(File.read(yaml))
-      rescue Psych::SyntaxError
-        $stderr.puts("#{account}: syntax error: #{$!}")
-      end
+    account = File.basename(yaml).delete_suffix(".yaml")
+    begin
+      questionnaires[account] = YAML.load(File.read(yaml))
+    rescue Psych::SyntaxError
+      $stderr.puts("#{account}: syntax error: #{$!}")
     end
   end
 end

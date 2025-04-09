@@ -1,5 +1,20 @@
 # How to feedback
 
+You can use whichever you like:
+
+* Issue
+* Pull request
+
+## Issue
+
+Open [the issue template for feedback](https://github.com/andpad-dev/code-party/issues/new?template=feedback.yml)!
+
+Fill the issue!
+
+Submit!
+
+## Pull request
+
 Fork this repository!
 
 ```bash

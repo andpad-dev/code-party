@@ -1,6 +1,6 @@
 name: Feedback
 description: Feedback for code party at RubyKaigi 2025
-title: "[RubyKaigi 2025]: "
+title: "[RubyKaigi 2025]: Code party feedback"
 body:
   - type: markdown
     attributes:

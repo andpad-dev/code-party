@@ -10,7 +10,7 @@ Ruby is a programming language that prioritizes the joy of programming. You all 
   * 開催日時：2025年4月18日（金）18:30-21:30（受付開始：18:15）
     * 開場時間：18:30
     * RubyKaigi 2025 3日目
-  * 会場：TODO
+  * 会場：[愛媛県県民文化会館 別館 第 13 会議室](https://maps.app.goo.gl/udHw4w9W2V7taBg19)
   * 参加費：無料
   * 定員：60名
   * 持ち物：
@@ -20,7 +20,7 @@ Ruby is a programming language that prioritizes the joy of programming. You all 
 
   * [Event Page](https://andpad.connpass.com/event/347970)
   * Date and Time: Apr 18 (RubyKaigi 2025 Day2) 18:30 - 21:30 (Registration starts at 18:15)
-  * Venue: TODO
+  * Venue: [Ehime Prefectural Cultural Hall Annex, Conference Room #13](https://maps.app.goo.gl/udHw4w9W2V7taBg19)
   * Participation Fee: Free
   * Capacity: 60 people
   * Event Items

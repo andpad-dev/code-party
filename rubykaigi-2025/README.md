@@ -127,3 +127,120 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
      * Submit the pull request on how the code party is in the end
        * Since it is a code party, submit a questionnaire as usual!
      * Refer to [feedback](feedback/) for the submission method
+
+## Groups
+
+### Theme 1: dRuby by seki
+
+11 + seki
+
+| Connpass user ID | Name           |
+| ---------------- | -------------- |
+| miwa719          | miwa719        |
+| unright          | makicamel      |
+| coe              | しおい         |
+| sadanora         | sadanora       |
+| rjge_            | rjge_          |
+| mugi0127         | mugi0127       |
+| maciejmensfeld   | maciejmensfeld |
+| dk_g             | dak2           |
+| jxmtst           | jx.matsushita  |
+| Yuhi_investment  | yuhi           |
+| ArakiTa          | ArakiTa        |
+
+### Theme 2: MRI (Matz Ruby Interpreter, CRuby) by ko1
+
+12 + ko1
+
+| Connpass user ID | Name            |
+| ---------------- | --------------- |
+| _byroot          | Jean Boussier   |
+| chart-linux      | genya0407       |
+| hachilog         | hachi           |
+| ima1zumi         | ima1zumi        |
+| ioquatix         | Samuel Williams |
+| jeremyevans      | Jeremy Evans    |
+| shule517         | シュール        |
+| sy20151201       | yama            |
+| takmar           | Takuma          |
+| tkkbn            | k0kubun         |
+| veilchen         | veilchen        |
+| zzak_jp          | zzak            |
+
+### Theme 3: TRICK, Reline and IRB by tompng
+
+10 + tompng
+
+| Connpass user ID | Name               |
+| ---------------- | ------------------ |
+| naitoh           | naitoh             |
+| cindyliu923      | cindyliu923        |
+| KasaHNO3         | KasaHNO3           |
+| flours           | Tada               |
+| znz              | Kazuhiro NISHIYAMA |
+| ftbyu            | yuporon            |
+| oda-i3           | 甚六               |
+| r3trofitted      | r3trofitted        |
+| koya-nmb         | koya-nmb           |
+| yamashita-a420   | yamashita          |
+
+### Theme 4: RubyGems/Bundler by hsbt
+
+10
+
+| Connpass user ID | Name             |
+| ---------------- | ---------------- |
+| Hirotacas        | Hirotaka Wagai   |
+| bomcat_k         | s.mototsune      |
+| hsbt             | hsbt             |
+| ivoanjo          | Ivo Anjo         |
+| koyo-miyamura    | koyo             |
+| larouxn          | Nicholas La Roux |
+| lemonade37       | はる             |
+| madisonsites     | Madison Sites    |
+| marcoroth        | Marco Roth       |
+| tanaka_akr       | tanaka_akr       |
+
+### Theme 5: Red Data Tools by tikkss
+
+8 + tikkss
+
+| Connpass user ID | Name         |
+| ---------------- | ------------ |
+| JeongJaeSoon     | JeongJaeSoon |
+| asya81jp         | かわかみ     |
+| otegami          | otegami      |
+| quattro_4        | quattro_4    |
+| tomoasleep       | Tomoya Chiba |
+| tomohiko9090     | ばーちゃん   |
+| youchan          | youchan      |
+| yuji_teshima     | yuji_teshima |
+
+### Theme 6: mruby by Matz
+
+5
+
+| Connpass user ID | Name          |
+| ---------------- | ------------- |
+| HitoshiHasumi    | hasumikin     |
+| elct9620         | 蒼時弦や      |
+| hashimoto-kei    | hashimoto-kei |
+| y_uuu            | Yuhei Okazaki |
+| yukihiro_matz    | yukihiro_matz |
+
+### Free theme
+
+7
+
+Let's discuss which theme to choose at the venue!
+
+| Connpass user ID | Name             |
+| ---------------- | ---------------- |
+| Akitoshiga       | しが あきとし    |
+| MasafumiOkura    | okuramasafumi    |
+| blacktoad        | Keisuke Kurosawa |
+| hayat01sh1da     | hayat01sh1da     |
+| mamyudapao       | noshian kenichi  |
+| nao_mattsu       | nao              |
+| nodmaterial      | nodematerial     |
+

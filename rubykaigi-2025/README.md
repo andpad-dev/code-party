@@ -136,18 +136,18 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 | Connpass user ID | Name           |
 | ---------------- | -------------- |
-| miwa719          | miwa719        |
-| unright          | makicamel      |
+| ArakiTa          | ArakiTa        |
+| Yuhi_investment  | yuhi           |
 | coe              | しおい         |
-| sadanora         | sadanora       |
-| rjge_            | rjge_          |
-| mugi0127         | mugi0127       |
-| maciejmensfeld   | maciejmensfeld |
 | dk_g             | dak2           |
 | jxmtst           | jx.matsushita  |
+| maciejmensfeld   | maciejmensfeld |
+| miwa719          | miwa719        |
+| mugi0127         | mugi0127       |
+| rjge_            | rjge_          |
+| sadanora         | sadanora       |
+| unright          | makicamel      |
 | veilchen         | veilchen        |
-| Yuhi_investment  | yuhi           |
-| ArakiTa          | ArakiTa        |
 
 ### Theme 2: MRI (Matz Ruby Interpreter, CRuby) by ko1
 

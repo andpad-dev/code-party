@@ -132,7 +132,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 1: dRuby by seki
 
-11 + seki
+12 + seki
 
 | Connpass user ID | Name           |
 | ---------------- | -------------- |
@@ -145,12 +145,13 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | maciejmensfeld   | maciejmensfeld |
 | dk_g             | dak2           |
 | jxmtst           | jx.matsushita  |
+| veilchen         | veilchen        |
 | Yuhi_investment  | yuhi           |
 | ArakiTa          | ArakiTa        |
 
 ### Theme 2: MRI (Matz Ruby Interpreter, CRuby) by ko1
 
-12 + ko1
+11 + ko1
 
 | Connpass user ID | Name            |
 | ---------------- | --------------- |
@@ -164,7 +165,6 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | sy20151201       | yama            |
 | takmar           | Takuma          |
 | tkkbn            | k0kubun         |
-| veilchen         | veilchen        |
 | zzak_jp          | zzak            |
 
 ### Theme 3: TRICK, Reline and IRB by tompng

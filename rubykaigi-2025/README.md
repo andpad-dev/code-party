@@ -203,34 +203,35 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 5: Red Data Tools by tikkss
 
-8 + tikkss
+10 + tikkss
 
-| Connpass user ID | Name         |
-| ---------------- | ------------ |
-| JeongJaeSoon     | JeongJaeSoon |
-| asya81jp         | かわかみ     |
-| otegami          | otegami      |
-| quattro_4        | quattro_4    |
-| tomoasleep       | Tomoya Chiba |
-| tomohiko9090     | ばーちゃん   |
-| youchan          | youchan      |
-| yuji_teshima     | yuji_teshima |
+| Connpass user ID | Name                      |
+| ---------------- | ------------------------- |
+| JeongJaeSoon     | JeongJaeSoon              |
+| asya81jp         | かわかみ                  |
+| otegami          | otegami                   |
+| quattro_4        | quattro_4                 |
+| tomoasleep       | Tomoya Chiba              |
+| tomohiko9090     | ばーちゃん                |
+| youchan          | youchan                   |
+| yuji_teshima     | yuji_teshima              |
+| kuei0221         | Chien-Wei Huang (Michael) |
+| headius          | Charles Oliver Nutter     |
 
 ### Theme 6: mruby by Matz
 
-5
+4
 
 | Connpass user ID | Name          |
 | ---------------- | ------------- |
 | HitoshiHasumi    | hasumikin     |
-| elct9620         | 蒼時弦や      |
 | hashimoto-kei    | hashimoto-kei |
 | y_uuu            | Yuhei Okazaki |
 | yukihiro_matz    | yukihiro_matz |
 
 ### Free theme
 
-7
+6
 
 Let's discuss which theme to choose at the venue!
 
@@ -241,6 +242,4 @@ Let's discuss which theme to choose at the venue!
 | blacktoad        | Keisuke Kurosawa |
 | hayat01sh1da     | hayat01sh1da     |
 | mamyudapao       | noshian kenichi  |
-| nao_mattsu       | nao              |
 | nodmaterial      | nodematerial     |
-

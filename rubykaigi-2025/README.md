@@ -243,3 +243,7 @@ Let's discuss which theme to choose at the venue!
 | hayat01sh1da     | hayat01sh1da     |
 | mamyudapao       | noshian kenichi  |
 | nodmaterial      | nodematerial     |
+
+## フィードバック Feedback
+
+See [feedback/README.md](feedback/README.md).

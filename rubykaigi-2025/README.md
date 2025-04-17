@@ -187,7 +187,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 4: RubyGems/Bundler by hsbt
 
-10
+9
 
 | Connpass user ID | Name             |
 | ---------------- | ---------------- |
@@ -198,26 +198,26 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | koyo-miyamura    | koyo             |
 | larouxn          | Nicholas La Roux |
 | lemonade37       | はる             |
-| madisonsites     | Madison Sites    |
 | marcoroth        | Marco Roth       |
 | tanaka_akr       | tanaka_akr       |
 
 ### Theme 5: Red Data Tools by tikkss
 
-10 + tikkss
+11 + tikkss
 
 | Connpass user ID | Name                      |
 | ---------------- | ------------------------- |
 | JeongJaeSoon     | JeongJaeSoon              |
 | asya81jp         | かわかみ                  |
+| headius          | Charles Oliver Nutter     |
+| hirosi1900day    | hirosi1900day             |
+| kuei0221         | Chien-Wei Huang (Michael) |
 | otegami          | otegami                   |
 | quattro_4        | quattro_4                 |
 | tomoasleep       | Tomoya Chiba              |
 | tomohiko9090     | ばーちゃん                |
 | youchan          | youchan                   |
 | yuji_teshima     | yuji_teshima              |
-| kuei0221         | Chien-Wei Huang (Michael) |
-| headius          | Charles Oliver Nutter     |
 
 ### Theme 6: mruby by Matz
 
@@ -232,7 +232,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Free theme
 
-6
+7
 
 Let's discuss which theme to choose at the venue!
 
@@ -244,6 +244,7 @@ Let's discuss which theme to choose at the venue!
 | hayat01sh1da     | hayat01sh1da     |
 | mamyudapao       | noshian kenichi  |
 | nodmaterial      | nodematerial     |
+| st0012           | Stan Lo          |
 
 ## フィードバック Feedback
 

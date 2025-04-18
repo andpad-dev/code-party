@@ -170,12 +170,11 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 3: TRICK, Reline and IRB by tompng
 
-10 + tompng
+9 + tompng
 
 | Connpass user ID | Name               |
 | ---------------- | ------------------ |
 | naitoh           | naitoh             |
-| cindyliu923      | cindyliu923        |
 | KasaHNO3         | KasaHNO3           |
 | flours           | Tada               |
 | znz              | Kazuhiro NISHIYAMA |
@@ -187,12 +186,13 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 4: RubyGems/Bundler by hsbt
 
-9
+10
 
 | Connpass user ID | Name             |
 | ---------------- | ---------------- |
 | Hirotacas        | Hirotaka Wagai   |
 | bomcat_k         | s.mototsune      |
+| botamochi0x12    | earthean         |
 | hsbt             | hsbt             |
 | ivoanjo          | Ivo Anjo         |
 | koyo-miyamura    | koyo             |

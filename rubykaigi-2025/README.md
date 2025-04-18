@@ -152,7 +152,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 2: MRI (Matz Ruby Interpreter, CRuby) by ko1
 
-12 + ko1
+13 + ko1
 
 | Connpass user ID | Name            |
 | ---------------- | --------------- |
@@ -166,6 +166,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | shule517         | シュール        |
 | sy20151201       | yama            |
 | takmar           | Takuma          |
+| tenderlove       | Aaron Patterson |
 | tkkbn            | k0kubun         |
 | zzak_jp          | zzak            |
 

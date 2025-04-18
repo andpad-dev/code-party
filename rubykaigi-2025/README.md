@@ -159,15 +159,16 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 | Connpass user ID | Name               |
 | ---------------- | ------------------ |
-| naitoh           | naitoh             |
 | KasaHNO3         | KasaHNO3           |
 | flours           | Tada               |
-| znz              | Kazuhiro NISHIYAMA |
 | ftbyu            | yuporon            |
+| koya-nmb         | koya-nmb           |
+| naitoh           | naitoh             |
 | oda-i3           | 甚六               |
 | r3trofitted      | r3trofitted        |
-| koya-nmb         | koya-nmb           |
+| s-mori           | s-mori             |
 | yamashita-a420   | yamashita          |
+| znz              | Kazuhiro NISHIYAMA |
 
 ### Theme 4: RubyGems/Bundler by hsbt
 

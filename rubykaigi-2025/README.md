@@ -188,11 +188,10 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 5: Red Data Tools by tikkss
 
-10 + tikkss
+9 + tikkss
 
 | Connpass user ID | Name                      |
 | ---------------- | ------------------------- |
-| JeongJaeSoon     | JeongJaeSoon              |
 | asya81jp         | かわかみ                  |
 | headius          | Charles Oliver Nutter     |
 | hirosi1900day    | hirosi1900day             |

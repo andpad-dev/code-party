@@ -74,29 +74,11 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 コード懇親会は参加者がいつものようにコードを書いて懇親します。より懇親しやすくするために、次のように進めます。
 
-  1. プロダクトごとにグループを作る
-     * 例：Ruby本体やmrubyやRails本体や各種gemやRed Data Toolsなど
-     * どんなグループができるかは参加者次第（まだなかったら新しく作る）
-     * グループごとに机とイスがまとまっている
-     * 議論しやすいようにホワイトボードもある
-     * コードを共有しやすいようにディスプレイもある
+  1. テーマごとに同じテーブルに集まる
+     * 自分がどのテーマに属しているかは次のセクションにまとまっている
 
-     Create a group for each product
-     * Example: Ruby itself, mruby, Rails itself, various gem, Red Data Tools etc.
-     * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
-     * Desks and chairs are gathered for each group
-     * There is also a whiteboard to facilitate easy discussion.
-     * There is also a display to facilitate easy sharing of code.
-
-  1. 参加者はなにかしらのグループに入る
-     * グループはあとから自由に変更できるので気軽に決めてよい
-     * 事前にどのグループに入りたいかは決めてきても決めてこなくてもどちらでもよい
-     * 受付でどのグループに入るのがよさそうか相談できる
-
-     Participants join somewhere in the group
-     * Group can be changed freely later, so feel free to decide
-     * What kind of group you can do depends on the participants (If you do not have it yet, make it new)
-     * You can decide which group you want to join in advance, whichever you decide not to decide
+     Join a table per theme
+     * The next section shows which group you belongs to
 
   1. Interacting while writing the code together in the group
      * メインコンテンツ（2時間強）
@@ -121,12 +103,12 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
   1. アンケートを提出
      * 最後にこの会がどうだったかをプルリクエストで提出
        * コード懇親会なので、アンケートの提出もいつものように！
-     * 提出方法は[feedback](feedback/)を参照
+     * 提出方法は[feedback](feedback/README.md)を参照
 
      Submit a questionnaire
      * Submit the pull request on how the code party is in the end
        * Since it is a code party, submit a questionnaire as usual!
-     * Refer to [feedback](feedback/) for the submission method
+     * Refer to [feedback](feedback/README.md) for the submission method
 
 ## Groups
 
@@ -246,7 +228,3 @@ Let's discuss which theme to choose at the venue!
 | hayat01sh1da     | hayat01sh1da     |
 | nodmaterial      | nodematerial     |
 | st0012           | Stan Lo          |
-
-## フィードバック Feedback
-
-See [feedback/README.md](feedback/README.md).

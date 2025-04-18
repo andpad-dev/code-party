@@ -132,7 +132,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 1: dRuby by seki
 
-12 + seki
+13 + seki
 
 | Connpass user ID | Name           |
 | ---------------- | -------------- |
@@ -146,6 +146,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | miwa719          | miwa719        |
 | rjge_            | rjge_          |
 | sadanora         | sadanora       |
+| taiseiue         | taiseiue       |
 | unright          | makicamel      |
 | veilchen         | veilchen       |
 
@@ -191,7 +192,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | Connpass user ID | Name             |
 | ---------------- | ---------------- |
 | Hirotacas        | Hirotaka Wagai   |
-| bomcat_k         | s.mototsune      |
+| ahogapParty      | ahogappa         |
 | botamochi0x12    | earthean         |
 | hsbt             | hsbt             |
 | ivoanjo          | Ivo Anjo         |
@@ -232,7 +233,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Free theme
 
-7
+6
 
 Let's discuss which theme to choose at the venue!
 
@@ -242,7 +243,6 @@ Let's discuss which theme to choose at the venue!
 | MasafumiOkura    | okuramasafumi    |
 | blacktoad        | Keisuke Kurosawa |
 | hayat01sh1da     | hayat01sh1da     |
-| mamyudapao       | noshian kenichi  |
 | nodmaterial      | nodematerial     |
 | st0012           | Stan Lo          |
 

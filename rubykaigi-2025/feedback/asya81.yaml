@@ -1,0 +1,31 @@
+# アンドパッド (andpad_dev) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# ANDPAD (andpad_dev) shares technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    これまで触れたことがなかったRed Data Toolsに触れることができ、またRedAmber や DataFrame、Apache Arrowについて解説いただいたり、実際にJupyter Notebookでコードを動かしつつ理解することができてよかった。
+    参加者の方と話しながら教えてもらいながら進められて楽しかった。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Red Data Tools
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    楽しかったです。ありがとうございました！
+  # 宣伝: 5月12日にコード懇親会でやったことや楽しかったことを自慢する
+  # 「コード懇親会自慢大会」を東京のアンドパッドのコミュニティスペー
+  # スで開催します！オンライン参加もできるので、ぜひ、楽しかったことを
+  # 他の人にも教えてあげてください！
+  # https://andpad.connpass.com/event/352071/
+  #
+  # Ad: There is an after event of this event "Code Party Boast Party"
+  # on 2025-05-12T19:00:00+0900 at ANDPAD community space in
+  # Tokyo. You can join the event as an online or offline
+  # speaker/attendee. Let's share what you enjoyed today!
+  # https://andpad.connpass.com/event/352071/

@@ -12,7 +12,7 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - drb
+    - dRuby
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.

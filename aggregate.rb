@@ -9,32 +9,44 @@ if event.nil?
   exit(false)
 end
 
-questionnaires = {}
+feedbacks = {}
 Dir.chdir(__dir__) do
   Dir.glob("#{event}/feedback/*.yaml").sort.each do |yaml|
     account = File.basename(yaml).delete_suffix(".yaml")
     begin
-      questionnaires[account] = YAML.load(File.read(yaml))
+      feedbacks[account] = YAML.load(File.read(yaml))
     rescue Psych::SyntaxError
       $stderr.puts("#{account}: syntax error: #{$!}")
     end
   end
 end
 
-_, key_questionnairy = questionnaires.first
-key_questionnairy["questions"].each do |question, _|
-  puts("-" * question.size)
-  puts(question)
-  puts("-" * question.size)
-  questionnaires.each do |account, questionnairy|
-    answer = questionnairy["questions"][question]
-    if answer.is_a?(Array)
-      puts("#{account}:")
-      puts(answer.join("\n"))
-    else
-      puts("#{account}: #{answer}")
-    end
-    puts("=" * 40)
-  end
+grouped_feedbacks = feedbacks.group_by do |account, feedback|
+  feedback["questions"]["groups"]
+end
+grouped_feedbacks.each do |groups, group_feedbacks|
+  groups_label = groups.join(" | ")
+  puts("### #{groups_label}")
   puts
+  puts("#### Feedback")
+  puts
+  puts("#{group_feedbacks.size}")
+  puts
+
+  _, key_feedback = group_feedbacks.first
+  key_feedback["questions"].each do |question, _|
+    next if question == "groups"
+    puts("##### #{question}")
+    puts
+    group_feedbacks.each do |account, feedback|
+      answer = feedback["questions"][question]
+      if answer.is_a?(Array)
+        puts("#{account}:")
+        puts(answer.join("\n"))
+      else
+        puts("#{account}: #{answer}")
+      end
+      puts
+    end
+  end
 end

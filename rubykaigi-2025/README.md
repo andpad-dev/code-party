@@ -402,6 +402,19 @@ tomohiko9090: ローカルの環境構築ができなかったです、、、
 | y_uuu            | Yuhei Okazaki |
 | yukihiro_matz    | yukihiro_matz |
 
+#### Feedback
+
+1
+
+##### fun
+
+yuuu: 楽しかったです！
+PicoRubyについて今後の開発方針を共有いただいたり、手元で寝かせていたPRをマージしてもらったり、初めて触る人にレクチャーしたり、充実した時間でした！
+
+##### etc
+
+yuuu: 来年も参加します！
+
 ### Free theme
 
 6

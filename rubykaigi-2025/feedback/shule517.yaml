@@ -16,7 +16,7 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - Theme2 MRI
+    - MRI
 
   etc:
     # なにか思ったことがあれば自由に書いてください。

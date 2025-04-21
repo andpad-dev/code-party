@@ -11,7 +11,7 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - Theme 4: RubyGems/Bundler
+    - RubyGems/Bundler
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.

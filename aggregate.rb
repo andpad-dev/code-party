@@ -40,11 +40,12 @@ grouped_feedbacks.each do |groups, group_feedbacks|
     puts
     group_feedbacks.each do |account, feedback|
       answer = feedback["questions"][question]
+      account_markdown = "[#{account}](https://github.com/#{account})"
       if answer.is_a?(Array)
-        puts("#{account}:")
+        puts("#{account_markdown}:")
         puts(answer.join("\n"))
       else
-        puts("#{account}: #{answer}")
+        puts("#{account_markdown}: #{answer}")
       end
       puts
     end

@@ -135,7 +135,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 #### Feedback
 
-10
+11
 
 ##### fun
 
@@ -143,6 +143,8 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 こういう機会ではないとおそらく dRuby を触っていなかったと思うので
 
 [eto](https://github.com/eto): すごく面白かったです。飛び入り参加させていただいて、ありがとうございました！
+
+[jxmtst](https://github.com/jxmtst): 咳さんからdRubyの可能性について直接お話をうかがえてdRubyに対する解像度がすごくあがりました！
 
 [makicamel](https://github.com/makicamel): dRuby グループに参加させて頂きました。とても楽しかったです!!
 dRuby を初めてつかった方が dRuby すごい!!となってくれているのも嬉しかったですし、Exercise4 のコードがすごく格好よくてそれを読み解いたり解説してもらったりして魔法みたいな咳さんのコードを味わうことができてとても嬉しかったです。
@@ -177,6 +179,14 @@ dRubyをdRuby on Browser Again!のセッションで知りました。
 - 会場が狭くて少し窮屈だった
 
 [eto](https://github.com/eto): インターネット接続に苦労した。モバイルルーターが多すぎたのかも？ WiFiの電波が被っていた？
+
+[jxmtst](https://github.com/jxmtst): 遅くなってすいません。feedbackのやり方を見逃していました。
+
+時間があっという間にすぎてしまった。あと1時間くらいコードを書いていたかった。
+wasm_drbはもう少しゆっくりお話を聞けばよかったと今更おもっていました。
+淡々と課題を行なってしまったため、しおいさんが質問されなくて寂しそうでした。
+会場がとても混んでいたので席移動をして他の方と会場で交流するのが少し難しかったかもしれません。
+来年も参加したいです。
 
 [makicamel](https://github.com/makicamel): コード懇親会、とてもいいものですね
 

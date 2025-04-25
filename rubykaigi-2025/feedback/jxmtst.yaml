@@ -11,13 +11,13 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - Theme 1: dRuby by seki
+    - dRuby
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.
     |
     遅くなってすいません。feedbackのやり方を見逃していました。
-    
+
     時間があっという間にすぎてしまった。あと1時間くらいコードを書いていたかった。
     wasm_drbはもう少しゆっくりお話を聞けばよかったと今更おもっていました。
     淡々と課題を行なってしまったため、しおいさんが質問されなくて寂しそうでした。

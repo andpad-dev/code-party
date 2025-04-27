@@ -1,0 +1,42 @@
+# アンドパッド (andpad_dev) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# ANDPAD (andpad_dev) shares technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+      # Did you have fun?
+      # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+      # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby itself was fun to write, etc.）
+      |
+      I had a wonderful time! tompng-san was so gentle and patient 😭. He began with an introduction to basic ASCII art syntax, followed by an analysis of award-winning TRICK entries to highlight common techniques. 
+
+      Special thanks to Tada-san for assisting me with debugging and sharing his approach to making quines more readable.
+
+      Yamashita-san, inspired by the Matsuyama specialty 'taruto' on the table, attempted to draw a spiral. This inspired me to experiment with creating different flavors of taruto in code.
+
+      Although my resulting code logic turned out quite messy, I explored [arranging the code itself into a visual pattern](https://github.com/umbrella-h/code-party-2025-TRICK/blob/main/taruto/entry.rb).
+      While it’s not a perfect Quine, it felt like a meaningful step forward, bringing me a little bit closer to understanding the world of TRICK.
+
+      Everyone was very considerate of my limited Japanese, which made it possible for me to enjoy the event stress-free 🙏🏼.
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - TRICK, Reline and IRB by tompng
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    I appreciated the format of having pre-announced themes alongside a free discussion group.
+    As a beginner, I could immediately dive into a theme with guidance from the hosts, while also having the opportunity to listen to discussions among more experienced participants.
+    Although it felt a bit more crowded than last year's venue (🥲), the participants were friendly and welcoming, so I still had a great time.
+    (Oh! And the onigiri were delicious! I even took 3 extra ones for my morning picnic. 🍙)
+  # 宣伝: 5月12日にコード懇親会でやったことや楽しかったことを自慢する
+  # 「コード懇親会自慢大会」を東京のアンドパッドのコミュニティスペー
+  # スで開催します！オンライン参加もできるので、ぜひ、楽しかったことを
+  # 他の人にも教えてあげてください！
+  # https://andpad.connpass.com/event/352071/
+  #
+  # Ad: There is an after event of this event "Code Party Boast Party"
+  # on 2025-05-12T19:00:00+0900 at ANDPAD community space in
+  # Tokyo. You can join the event as an online or offline
+  # speaker/attendee. Let's share what you enjoyed today!
+  # https://andpad.connpass.com/event/352071/

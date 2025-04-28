@@ -7,7 +7,7 @@ questions:
       # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
       # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby itself was fun to write, etc.）
       |
-      I had a wonderful time! tompng-san was so gentle and patient 😭. He began with an introduction to basic ASCII art syntax, followed by an analysis of award-winning TRICK entries to highlight common techniques. 
+      I had a wonderful time! tompng-san was so gentle and patient 😭. He began with an introduction to basic ASCII art syntax, followed by an analysis of award-winning TRICK entries to highlight common techniques.
 
       Special thanks to Tada-san for assisting me with debugging and sharing his approach to making quines more readable.
 
@@ -20,7 +20,7 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - TRICK, Reline and IRB by tompng
+    - TRICK, Reline and IRB
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.

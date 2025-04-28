@@ -294,7 +294,7 @@ Samuelと話してRubyの開発の便利なtipsを聞いたりできて良かっ
 
 #### Feedback
 
-5
+6
 
 ##### fun
 
@@ -304,6 +304,17 @@ TRICK2022の作品の解説を直接聞いたり、少しコードを書いて�
 [jinroq](https://github.com/jinroq): 楽しかった。
 
 [naitoh](https://github.com/naitoh): TRICK をやってみたかったのですが、いまいち踏み出せずにいたので、入門できたので最高でした！
+
+[umbrella-h](https://github.com/umbrella-h): I had a wonderful time! tompng-san was so gentle and patient 😭. He began with an introduction to basic ASCII art syntax, followed by an analysis of award-winning TRICK entries to highlight common techniques.
+
+Special thanks to Tada-san for assisting me with debugging and sharing his approach to making quines more readable.
+
+Yamashita-san, inspired by the Matsuyama specialty 'taruto' on the table, attempted to draw a spiral. This inspired me to experiment with creating different flavors of taruto in code.
+
+Although my resulting code logic turned out quite messy, I explored [arranging the code itself into a visual pattern](https://github.com/umbrella-h/code-party-2025-TRICK/blob/main/taruto/entry.rb).
+While it’s not a perfect Quine, it felt like a meaningful step forward, bringing me a little bit closer to understanding the world of TRICK.
+
+Everyone was very considerate of my limited Japanese, which made it possible for me to enjoy the event stress-free 🙏🏼.
 
 [yamashita-a420](https://github.com/yamashita-a420): とても楽しかったです！
 今年のTRICK受賞作品を見ながらコードの読み方、書き方を教えていただきました。
@@ -321,6 +332,11 @@ In the middle time, I had a request to review a pull request to rurema/doctree, 
 [jinroq](https://github.com/jinroq): _No response_
 
 [naitoh](https://github.com/naitoh): おにぎり＆ドリンクご馳走様です！
+
+[umbrella-h](https://github.com/umbrella-h): I appreciated the format of having pre-announced themes alongside a free discussion group.
+As a beginner, I could immediately dive into a theme with guidance from the hosts, while also having the opportunity to listen to discussions among more experienced participants.
+Although it felt a bit more crowded than last year's venue (🥲), the participants were friendly and welcoming, so I still had a great time.
+(Oh! And the onigiri were delicious! I even took 3 extra ones for my morning picnic. 🍙)
 
 [yamashita-a420](https://github.com/yamashita-a420): 大変貴重な機会をありがとうございました！
 

@@ -54,7 +54,7 @@ rubykaigi-2025: Add answer by #{login}
 
 Fix \##{number}
 
-Authored-by: #{issue["author"]["name"]} <#{login}@users.noreply.github.com>
+Co-authored-by: #{issue["author"]["name"]} <#{login}@users.noreply.github.com>
   MESSAGE
   system("gh",
          "issue",

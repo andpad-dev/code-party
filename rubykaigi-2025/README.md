@@ -135,9 +135,11 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 #### Feedback
 
-11
+12
 
 ##### fun
+
+[Miwa719](https://github.com/Miwa719): 演習を使ったdRuby体験、これまで数回体験してdRubyのすごさがわかってるのに（のに！）毎回「え？すごい！！」「魔法なの？」「意味がわからん！」となり驚きと感動を味わっています（予定調和的ではあるがそれがｲｲｯ）。初めてdRubyを体験するRubyistの反応やdRubyのすごさを語り出すRubyistを見るのが大好きで、みなさんがわたしにとって尊い存在ですし、ほんとうに幸せな気持ちになります。RubyKaigi2025最終日、最後の最後まで気分良く楽しく過ごせました。ありがとうございました。
 
 [dak2](https://github.com/dak2): dRuby を動かせて楽しかったです！
 こういう機会ではないとおそらく dRuby を触っていなかったと思うので
@@ -174,6 +176,8 @@ dRubyをdRuby on Browser Again!のセッションで知りました。
 申込時はRed Data Toolsでしたが当日変えて頂いてありがとうございました。
 
 ##### etc
+
+[Miwa719](https://github.com/Miwa719): _No response_
 
 [dak2](https://github.com/dak2): - wifi が弱かった
 - 会場が狭くて少し窮屈だった

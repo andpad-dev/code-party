@@ -143,39 +143,74 @@ Material: [dRuby hands-on workshop](https://www.druby.org/druby-matzyama.pdf)
 
 [Miwa719](https://github.com/Miwa719): 演習を使ったdRuby体験、これまで数回体験してdRubyのすごさがわかってるのに（のに！）毎回「え？すごい！！」「魔法なの？」「意味がわからん！」となり驚きと感動を味わっています（予定調和的ではあるがそれがｲｲｯ）。初めてdRubyを体験するRubyistの反応やdRubyのすごさを語り出すRubyistを見るのが大好きで、みなさんがわたしにとって尊い存在ですし、ほんとうに幸せな気持ちになります。RubyKaigi2025最終日、最後の最後まで気分良く楽しく過ごせました。ありがとうございました。
 
+Machine translation: Even though I've experienced dRuby using exercises a few times and know how amazing dRuby is (even though!), I'm always surprised and impressed, saying things like "Wow! Amazing!", "Is it magic?", and "I don't understand!" (It's a bit predictable, but that's what makes it so good). I love seeing the reactions of Rubyists who are experiencing dRuby for the first time and those who start talking about how amazing dRuby is, and you are all precious to me, and it makes me really happy. I had a great time and enjoyed the last day of RubyKaigi2025 until the very end. Thank you very much.
+
 [dak2](https://github.com/dak2): dRuby を動かせて楽しかったです！
 こういう機会ではないとおそらく dRuby を触っていなかったと思うので
 
+Machine translation: It was fun to get dRuby up and running!
+I probably wouldn't have used dRuby if it weren't for this opportunity.
+
 [eto](https://github.com/eto): すごく面白かったです。飛び入り参加させていただいて、ありがとうございました！
 
+Machine translation: It was a lot of fun. Thank you for letting me join in!
+
 [jxmtst](https://github.com/jxmtst): 咳さんからdRubyの可能性について直接お話をうかがえてdRubyに対する解像度がすごくあがりました！
+
+Machine translation: Hearing directly from Seki-san about the potential of dRuby has really increased my understanding of dRuby!
 
 [makicamel](https://github.com/makicamel): dRuby グループに参加させて頂きました。とても楽しかったです!!
 dRuby を初めてつかった方が dRuby すごい!!となってくれているのも嬉しかったですし、Exercise4 のコードがすごく格好よくてそれを読み解いたり解説してもらったりして魔法みたいな咳さんのコードを味わうことができてとても嬉しかったです。
 
+Machine translation: I participated in the dRuby group. It was a lot of fun!!
+I was also happy to see people who were using dRuby for the first time saying how amazing it was, and I was also very happy to be able to experience Seki-san's magical code by deciphering and explaining the code in Exercise4, which was really cool.
+
 [mopp](https://github.com/mopp): drb を作った張本人と話せたのが楽しかったです
 作った理由を素朴に聞いたときの回答が剛腕で面白かった
+
+Machine translation: It was fun to talk to the person who created drb. When I asked him why he created it, his answer was strong and interesting.
 
 [rjge](https://github.com/rjge): 紙からの写経を久しぶりにやったので新鮮で楽しかったです ~(HTML部分はちょっとだけ辛かったですw)~
 手元で動くのはやっぱり楽しいですね！お陰でdrubyのことなにもわからなかったのが、完全に理解できた気がします 😄
 
+Machine translation: It's been a while since I last copied something from paper, so it was refreshing and fun ~(the HTML part was a bit difficult lol)~
+It's really fun to have it running on your own! Thanks to this, I feel like I can completely understand dRuby, even though I didn't know anything about it before 😄
+
 [sadanora](https://github.com/sadanora): drubyの体験が出来て楽しかったです！
 wasm_drbのexampleを動かそうと思ったものの私は途中で時間切れになってしまいましたが、グループの他の方がcommitterの方に質問しながら解決されていたのを見ることができてよかったです。
+
+Machine translation: It was fun to get experience with dRuby!
+I wanted to run the wasm_drb example, but I ran out of time halfway through, so it was good to see other people in my group solving the problem by asking the committer questions.
 
 [shioimm](https://github.com/shioimm): dRubyと出会い直すことができました。
 咳さんに直接教わることができた経験は宝物です。
 
+Machine translation: I was able to rediscover dRuby.
+I treasure the experience of being able to learn directly from Seki-san.
+
 [taiseiue](https://github.com/taiseiue): dRubyを動かせて楽しかったです!
 プログラム写経も以外な発見があったりして面白かったです。
 
+Machine translation: It was fun to get dRuby up and running!
+Copying the program was also interesting as I made some unexpected discoveries.
+
 [veilchen](https://github.com/veilchen): dRubyをなんも知らん状態からとりあえず動くものが作れた！
 おにぎりが面白くて美味しかった！
+
+Machine translation: Even though I knew nothing about dRuby, I was able to create something that worked!
+The rice balls were fun and delicious!
 
 [yujiteshima](https://github.com/yujiteshima): 楽しかったです。
 dRubyをdRuby on Browser Again!のセッションで知りました。
 書いて動かしているだけで楽しかったです。
 
 申込時はRed Data Toolsでしたが当日変えて頂いてありがとうございました。
+
+Machine translation: It was fun.
+I learned about dRuby at the dRuby on Browser Again! session.
+Just writing it and getting it to work was fun.
+
+When I applied, I was using Red Data Tools, but thank you for changing it on the day.
 
 ##### etc
 
@@ -252,10 +287,17 @@ Wifiがもう少し強いと安心かなと思いました。
 [genya0407](https://github.com/genya0407): 笹田さんから直接スレッド周りの処理の概要を教わることができ、大変楽しく、また勉強になりました。
 コードが難しくて、目的のところまで辿り着けなかったのは悔しいですが、、、
 
+Machine translation: I had a lot of fun learning the outline of thread processing directly from Sasada-san, and it was also a learning experience.
+The code was difficult, and it's frustrating that I couldn't get to where I wanted to be, but...
+
 [ima1zumi](https://github.com/ima1zumi): 楽しかったです！
 Samuelと話してRubyの開発の便利なtipsを聞いたりできて良かったです。
 
+Machine translation: It was fun! It was great to talk with Samuel and hear some handy tips for Ruby development.
+
 [jeremyevans](https://github.com/jeremyevans): It was fun to work on the implementation of a new Ruby feature and get immediate feedback from other committers.
+
+Machine translation: 新しい Ruby 機能の実装に取り​​組んで、他のコミッターからすぐにフィードバックを得られるのは楽しかったです。
 
 [shule517](https://github.com/shule517): 楽しかったです！周りにMatzさんや、コミッターさん達がいる中で、コードを書くことを楽しんでました。
 みんなRubyが好きな人たちと一緒にコーディングできたことで仲間の輪に入れてもらったような感覚でした。
@@ -263,8 +305,17 @@ Samuelと話してRubyの開発の便利なtipsを聞いたりできて良かっ
 正直 RubyKaigi3日間終えた後のコード懇親会だったので、参加前は体力・元気が残っているか不安でしたが、
 実際に参加してみたら、楽しくて 疲れを忘れてました！
 
+Machine translation: It was fun! I enjoyed writing code with Matz and the other committers around me.
+I felt like I was part of a group of friends because I was coding with everyone who loves Ruby.
+It was a very comfortable place!
+To be honest, since this was a code social after the three-day RubyKaigi, I was worried about whether I would have the energy or stamina left before participating,
+but once I actually participated, it was so much fun that I forgot about my fatigue!
+
 [takmar](https://github.com/takmar): Ruby自体のコードを改変して思ったように動かせてたのしかった。たくさんコミッターがいる雰囲気も新鮮でよかったです。
 また、笹田さんに丁寧に教えてもらいとてもありがたかったです。
+
+Machine translation: It was fun to modify the Ruby code itself and make it work the way I wanted it to. The atmosphere of having so many committers was refreshing and fun.
+I was also very grateful to Sasada-san for his detailed instruction.
 
 ##### etc
 
@@ -307,9 +358,16 @@ Samuelと話してRubyの開発の便利なtipsを聞いたりできて良かっ
 [flours](https://github.com/flours): ペンさんとお話しできたのが大変嬉しかったです！
 TRICK2022の作品の解説を直接聞いたり、少しコードを書いてみたり、自分が書いて落選しちゃったコードについて直接フィードバックを受けたりできたのでよかったです。
 
+Machine translation: I was really happy to be able to talk to tompng!
+It was great to hear his explanation of the TRICK2022 work directly, write a little bit of code, and get direct feedback on the code I wrote that wasn't selected.
+
 [jinroq](https://github.com/jinroq): 楽しかった。
 
+Machine translation: it was fun.
+
 [naitoh](https://github.com/naitoh): TRICK をやってみたかったのですが、いまいち踏み出せずにいたので、入門できたので最高でした！
+
+Machine translation: I'd always wanted to try TRICK but had never quite taken the plunge, so it was great to be able to get started!
 
 [umbrella-h](https://github.com/umbrella-h): I had a wonderful time! tompng-san was so gentle and patient 😭. He began with an introduction to basic ASCII art syntax, followed by an analysis of award-winning TRICK entries to highlight common techniques.
 
@@ -322,14 +380,34 @@ While it’s not a perfect Quine, it felt like a meaningful step forward, bringi
 
 Everyone was very considerate of my limited Japanese, which made it possible for me to enjoy the event stress-free 🙏🏼.
 
+Machine translation: 素晴らしい時間を過ごしました！tompngさんは本当に優しくて忍耐強い方でした😭。まずは基本的なASCIIアートの構文の紹介から始まり、続いてTRICKの受賞作品を分析して、よく使われるテクニックを解説してくれました。
+
+デバッグを手伝ってくれ、クインをより読みやすくするためのアプローチを共有してくれた多田さんに特に感謝いたします。
+
+山下さんは、テーブルに置かれた松山名物のタルトにインスピレーションを受け、渦巻きを描こうとしました。これがきっかけで、私もコードで様々なタルトを作ろうと考えるようになりました。
+
+結果として得られたコードロジックはかなり雑然としたものになってしまいましたが、[コード自体を視覚的なパターンにまとめる](https://github.com/umbrella-h/code-party-2025-TRICK/blob/main/taruto/entry.rb)を探求しました。
+完璧なクインではありませんが、TRICKの世界への理解に少し近づくことができた、意義深い一歩だと感じました。
+
+皆さんが私の日本語があまり上手でないことにとても配慮してくれて、ストレスなくイベントを楽しむことができました🙏🏼。
+
 [yamashita-a420](https://github.com/yamashita-a420): とても楽しかったです！
 今年のTRICK受賞作品を見ながらコードの読み方、書き方を教えていただきました。
 動かして遊ぶばかりで自分で書くのは初めてでした。教えていただきつつ意図通り動くものができて嬉しかったです！
+
+Machine translation: It was a lot of fun!
+We were taught how to read and write code while looking at this year's TRICK winning entries.
+I've only ever played around with code, so this was my first time writing it myself. With your guidance, I was able to create something that worked as intended, which made me very happy!
 
 [znz](https://github.com/znz): Yes. I had fun.
 First tompng explains TRICK codes, it was interesting.
 After that, I tried ruby-quiz-2025.storesinc.tech, and found 11 treasures.
 In the middle time, I had a request to review a pull request to rurema/doctree, so I reviewed and merged it.
+
+Machine translation: はい、楽しかったです。
+まずはtompngさんがTRICKコードを解説していて面白かったです。
+その後、ruby-quiz-2025.storesinc.techを試してみたら、11個の宝物を見つけました。
+途中、rurema/doctreeへのプルリクエストをレビューしてほしいという依頼があったので、レビューしてマージしました。
 
 ##### etc
 
@@ -375,12 +453,22 @@ I will try to communicate more if I attend next time.
 [akr](https://github.com/akr): はい。
 Rubyの (Enumerator#size の) 仕様の調査をネタに話がはずんだ。
 
+Machine translation: Yes.
+We had a lively conversation while researching the Ruby (Enumerator#size) specifications.
+
 [koyo-miyamura](https://github.com/koyo-miyamura): RubyKaigi 参加して、何かコード書きたいなーという気持ちだったのでちょうどよく楽しかったです 🙏
+
+Machine translation: I participated in RubyKaigi and felt like I wanted to write some code, so it was just the right amount of fun 🙏
 
 [lemonade-37](https://github.com/lemonade-37): 楽しかったです！OSSコミッターの方とお話しできて貴重な経験ができました。
 
+Machine translation: It was fun! I had a valuable experience talking with OSS committers.
+
 [wagai](https://github.com/wagai): 久しぶりのGem作成。
 なかなか作る機会がなかったため新鮮でした。
+
+Machine translation: It's been a while since I last made a Gem.
+I haven't had a chance to make one in a while, so it was a refreshing experience.
 
 ##### etc
 
@@ -417,9 +505,16 @@ Rubyの (Enumerator#size の) 仕様の調査をネタに話がはずんだ。
 [asya81](https://github.com/asya81): これまで触れたことがなかったRed Data Toolsに触れることができ、またRedAmber や DataFrame、Apache Arrowについて解説いただいたり、実際にJupyter Notebookでコードを動かしつつ理解することができてよかった。
 参加者の方と話しながら教えてもらいながら進められて楽しかった。
 
+Machine translation: I was glad that I was able to try out the Red Data Tools, which I had never used before, and that I was also able to hear explanations about RedAmber, DataFrame, and Apache Arrow, and to actually run the code in Jupyter Notebook while understanding it.
+It was fun to learn and talk with the other participants as we went along.
+
 [kyamaguchi](https://github.com/kyamaguchi): 想定していた課題が動かせたのと、それ以上に新しいことを知れたので良かったです
 
+Machine translation: I was glad that I was able to solve the problem I had anticipated, and more than that, I learned something new.
+
 [tomohiko9090](https://github.com/tomohiko9090): 懇親会として、いろいろ話させていただいたのがとても楽しかったです。
+
+Machine translation: 懇親会として、いろいろ話させていただいたのがとても楽しかったです。
 
 ##### etc
 
@@ -454,6 +549,9 @@ Rubyの (Enumerator#size の) 仕様の調査をネタに話がはずんだ。
 [yuuu](https://github.com/yuuu): 楽しかったです！
 PicoRubyについて今後の開発方針を共有いただいたり、手元で寝かせていたPRをマージしてもらったり、初めて触る人にレクチャーしたり、充実した時間でした！
 
+Machine translation: It was fun!
+We had a very fulfilling time, with the team sharing future development plans for PicoRuby, merging PRs that had been sitting around, and giving a lecture to people using it for the first time!
+
 ##### etc
 
 [yuuu](https://github.com/yuuu): 来年も参加します！
@@ -481,7 +579,11 @@ Let's discuss which theme to choose at the venue!
 
 [akitoshiga](https://github.com/akitoshiga): 他の参加者の方と一緒にOSSにコントリビュートできてめちゃめちゃ楽しかったです！
 
+Machine translation: It was so much fun to contribute to OSS with the other participants!
+
 [nodematerial](https://github.com/nodematerial): 楽しかったです。最初は何をやろうか戸惑いましたが、同じチームの方とOSSドキュメントの日本語翻訳を分担してやることに決めました。成果を出すことにこだわっていたわけではないですが、それでも時間内に一定の成果が得られたことは嬉しかったです。
+
+Machine translation: It was fun. At first, I was unsure of what to do, but I decided to share the task of translating OSS documentation into Japanese with my teammates. I wasn't particularly concerned about producing results, but I was happy that we were able to achieve a certain level of success within the time frame.
 
 ##### etc
 

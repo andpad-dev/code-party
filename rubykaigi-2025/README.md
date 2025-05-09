@@ -133,6 +133,8 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | unright          | makicamel      |
 | veilchen         | veilchen       |
 
+Material: [dRuby hands-on workshop](https://www.druby.org/druby-matzyama.pdf)
+
 #### Feedback
 
 12

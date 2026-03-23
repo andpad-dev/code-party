@@ -121,4 +121,30 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
 
-### Theme 5:  Ruby x Rust by udzura
+### Theme 5: Ruby x Rust by [udzura](https://x.com/udzura)
+
+(English follows)
+
+Rubyとはまた違うアプローチでエルゴノミクスを極めるRustと触れ合いましょう。
+
+このテーブルの催しとして、僭越ながら udzura によるRustの好きなところ解説タイムがあります（予定: 18:40〜 20:10〜 の2回。状況により変更します）。水族館の生き物解説タイムのような感じで楽しんでいただければと思います。
+
+Rust「水族館」のモデルコースとして3つの順路を考えています。
+
+- Rustを触ってみるコース（[rustlings](https://rustlings.rust-lang.org/) などに触れてもいいですね）
+- bundlerの標準テンプレートを用いてRust製のgemを作るコース
+- もっと高度なことをするコース（udzuraさんなどその場にいる人が壁打ちしてくれます。きっと）
+
+とは言え、参加者はもちろん好きなように型と戯れてください。
+
+Join us as we dive into Rust—a language that pursues ergonomics through a different approach than Ruby.
+
+As a special feature at this table, @udzura will host a "Favorite Things about Rust" talk (Scheduled for 6:40 PM and 8:10 PM, subject to change). Think of it like a guided talk at an aquarium where the staff explains the fascinating traits of the crustaceans!
+
+We have prepared three "model courses" for your journey through the Rust "Aquarium":
+
+- The "First Touch" Course: A beginner-friendly introduction to writing your first lines of Rust, e.g. playing with [rustlings](https://rustlings.rust-lang.org/).
+- The "Rust Gem" Course: Learn how to build a Ruby gem powered by Rust using standard Bundler templates.
+- The "Deep Dive" Course: For those tackling advanced topics. Staffs like @udzura will be around to act as a sounding board for your ideas.
+
+Of course, these are just suggestions. Feel free to explore and play with traits, enums, ownerships, and lifetimes however you like!

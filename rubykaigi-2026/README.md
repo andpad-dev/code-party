@@ -115,10 +115,88 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 1: dRuby by seki
 
+12 + seki
+
+| Connpass user ID | Name                  |
+|------------------|-----------------------|
+| a-kubotera       | a-kubotera            |
+| anmarchenko      | anmarchenko           |
+| coe              | しおい                |
+| elct9620         | 蒼時弦や              |
+| miwa719          | miwa719               |
+| n3_x             | ユーキャン            |
+| naitoh           | naitoh                |
+| otegami          | otegami               |
+| skyksandr        | Aleksandr Kunin       |
+| tekknolagi       | Max Bernstein         |
+| tonytonyjan      | 簡煒航 (Jian Weihang) |
+| zunda            | zunda                 |
+
 ### Theme 2: Ruby by shugo
+
+10 + shugo
+
+| Connpass user ID | Name            |
+|------------------|-----------------|
+| Utsubo256        | utsubo          |
+| dk_g             | dak2            |
+| emp-temp         | laraochan       |
+| hashimoto-kei    | hashimoto-kei   |
+| kaisumi          | Kimura          |
+| miguel0201       | miguel0201      |
+| ryz310           | Ryosuke Sato    |
+| souldew          | takady          |
+| tikkss           | Tsutomu Katsube |
+| u1tnk            | u1tnk           |
 
 ### Theme 3: RubyGems/Bundler by hsbt
 
+10 + hsbt
+
+| Connpass user ID   | Name             |
+|--------------------|------------------|
+| NoborikawaHitoshi  | Nobo             |
+| TakuyaEguchi       | Takuya Eguchi    |
+| Yuhi_investment    | yuhi             |
+| kurotaky           | kurotaky         |
+| nissyi             | nissyi           |
+| requiemformemories | 文月             |
+| shirakabesoft      | shirakabesoft    |
+| taketo             | Taketo Takashima |
+| tanaka_akr         | tanaka_akr       |
+| willnet            | willnet          |
+
 ### Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
 
-### Theme 5:  Ruby x Rust by udzura
+10 + matz
+
+| Connpass user ID | Name           |
+|------------------|----------------|
+| MasafumiOkura    | okuramasafumi  |
+| Yuma2000         | Yuma Takeda    |
+| emondora         | Komura Takaaki |
+| jxmtst           | jx.matsushita  |
+| kaneda-rni       | kaneda-rni     |
+| kwappa           | kwappa         |
+| quattro_4        | quattro_4      |
+| ramusara         | ramusara       |
+| yasulab          | yasulab        |
+| yuji_teshima     | yuji_teshima   |
+
+### Theme 5: Ruby x Rust by udzura and ahogappa
+
+11 + udzura and ahogappa
+
+| Connpass user ID | Name          |
+|------------------|---------------|
+| CTK64            | どすこい      |
+| LuckyWindsck     | LuckyWindsck  |
+| ivoanjo          | Ivo Anjo      |
+| marcoroth        | Marco Roth    |
+| maru3460         | maru          |
+| niku_name        | niku_name     |
+| niwaniwawa       | koke / nirila |
+| ogucabj          | oguressive    |
+| ph3              | ph3           |
+| tomoasleep       | Tomoya Chiba  |
+| yuriko1211ab     | yuriko        |

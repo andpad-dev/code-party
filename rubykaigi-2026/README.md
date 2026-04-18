@@ -135,13 +135,14 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 2: Ruby by shugo
 
-10 + shugo
+11 + shugo
 
 | Connpass user ID | Name            |
 |------------------|-----------------|
 | Utsubo256        | utsubo          |
 | dk_g             | dak2            |
 | emp-temp         | laraochan       |
+| ftbyu            | yuporon         |
 | hashimoto-kei    | hashimoto-kei   |
 | kaisumi          | Kimura          |
 | miguel0201       | miguel0201      |
@@ -169,7 +170,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
 
-9 + matz
+8 + matz
 
 | Connpass user ID | Name           |
 |------------------|----------------|
@@ -177,7 +178,6 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | Yuma2000         | Yuma Takeda    |
 | emondora         | Komura Takaaki |
 | kaneda-rni       | kaneda-rni     |
-| kwappa           | kwappa         |
 | quattro_4        | quattro_4      |
 | ramusara         | ramusara       |
 | yasulab          | yasulab        |

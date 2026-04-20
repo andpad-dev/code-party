@@ -7,7 +7,7 @@ You can use whichever you like:
 
 ## Issue
 
-Open [the issue template for feedback](https://github.com/andpad-dev/code-party/issues/new?template=feedback.yml)!
+Open [the issue template for feedback](https://github.com/andpad-dev/code-party/issues/new?template=feedback-2025.yml)!
 
 Fill the issue!
 

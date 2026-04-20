@@ -30,3 +30,9 @@ body:
       label: なにか思ったことがあれば自由に書いてください。 / Please give us any feedback.
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: |
+        宣伝：今日はご参加ありがとうございました！ 明日の Day3 もアンドパッドブースは元気にやっております。 ランチとドリンクも用意してるから、ぜひ遊びに来てね！
+
+        Ad: Thanks for coming tonight! Don't forget, the ANDPAD booth will be back in action for Day 3. We've got lunch and drinks waiting for you, so make sure to swing by and say hi!

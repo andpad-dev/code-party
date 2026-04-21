@@ -170,14 +170,13 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
 
-8 + matz
+7 + matz
 
 | Connpass user ID | Name           |
 |------------------|----------------|
 | MasafumiOkura    | okuramasafumi  |
 | Yuma2000         | Yuma Takeda    |
 | emondora         | Komura Takaaki |
-| kaneda-rni       | kaneda-rni     |
 | quattro_4        | quattro_4      |
 | ramusara         | ramusara       |
 | yasulab          | yasulab        |
@@ -185,7 +184,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 5: Ruby x Rust by udzura and ahogappa
 
-11 + udzura and ahogappa
+12 + udzura and ahogappa
 
 | Connpass user ID | Name          |
 |------------------|---------------|
@@ -198,5 +197,6 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | niwaniwawa       | koke / nirila |
 | ogucabj          | oguressive    |
 | ph3              | ph3           |
+| takaokouji       | takaokouji    |
 | tomoasleep       | Tomoya Chiba  |
 | yuriko1211ab     | yuriko        |

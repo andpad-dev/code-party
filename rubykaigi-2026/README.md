@@ -115,12 +115,11 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 1: dRuby by seki
 
-13 + seki
+12 + seki
 
 | Connpass user ID | Name                  |
 |------------------|-----------------------|
 | a-kubotera       | a-kubotera            |
-| anmarchenko      | anmarchenko           |
 | coe              | しおい                |
 | elct9620         | 蒼時弦や              |
 | jxmtst           | jx.matsushita         |
@@ -135,7 +134,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 ### Theme 2: Ruby by shugo
 
-11 + shugo
+12 + shugo
 
 | Connpass user ID | Name            |
 |------------------|-----------------|
@@ -146,6 +145,7 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | hashimoto-kei    | hashimoto-kei   |
 | kaisumi          | Kimura          |
 | miguel0201       | miguel0201      |
+| ryotatake        | ryotatake       |
 | ryz310           | Ryosuke Sato    |
 | souldew          | takady          |
 | tikkss           | Tsutomu Katsube |

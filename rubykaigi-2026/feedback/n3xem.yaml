@@ -1,0 +1,26 @@
+# アンドパッド (andpad_dev) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# ANDPAD (andpad_dev) shares technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    楽しかったです！dRuby 実際に触るのが初めてだったので、いい取っ掛かりになりました。sekiさんとお話しできたのも楽しかったです
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - dRuby
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    いろいろサポートしていただきありがとうございました！
+  # 宣伝: 今日はご参加ありがとうございました！ 明日の Day3 もアンドパ
+  # ッドブースは元気にやっております。 ランチとドリンクも用意してるか
+  # ら、ぜひ遊びに来てね！
+  #
+  # Ad: Thanks for coming tonight! Don't forget, the ANDPAD booth will
+  # be back in action for Day 3. We've got lunch and drinks waiting
+  # for you, so make sure to swing by and say hi!

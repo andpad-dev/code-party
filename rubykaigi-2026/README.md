@@ -132,6 +132,27 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | tonytonyjan      | 簡煒航 (Jian Weihang) |
 | zunda            | zunda                 |
 
+#### Feedback
+
+3
+
+##### fun
+
+[n3xem](https://github.com/n3xem): 楽しかったです！dRuby 実際に触るのが初めてだったので、いい取っ掛かりになりました。sekiさんとお話しできたのも楽しかったです
+
+[naitoh](https://github.com/naitoh): 楽しかったです！
+dRubyの分散オブジェクトの世界に入れて楽しかったです！
+
+[zunda](https://github.com/zunda): 楽しかったです！作者の方の深い解説を聞かせていただいて、現代では期待しない挙動（URIにIPv6アドレスがある場合に`[]`で囲まれない）をみつけることもできました。
+
+##### etc
+
+[n3xem](https://github.com/n3xem): いろいろサポートしていただきありがとうございました！
+
+[naitoh](https://github.com/naitoh): また次回も参加します！
+
+[zunda](https://github.com/zunda): グループごとに静かな環境があればよりよかったと思いますが、実現するのは難しそうですよね〜
+
 ### Theme 2: Ruby by shugo
 
 12 + shugo
@@ -151,6 +172,62 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | tikkss           | Tsutomu Katsube |
 | u1tnk            | u1tnk           |
 
+##### fun
+
+[dak2](https://github.com/dak2): 色んな人と交流しながら Ruby 触るの楽しかったです
+
+[kaisumi](https://github.com/kaisumi): 面白かったです！OSS活動をする心構えが、普段の開発姿勢と大きく異なっていて驚きました。OSS活動での姿勢はポジティブなのが良いなと思っており、興味を持ちました。
+
+[laraochan](https://github.com/laraochan): Matzさんと直接お話しできて、とても楽しかったです。
+言語の作者ならではの考え方に触れられて、すごく貴重な経験でした。
+他の参加者の方々も優しくて、話しやすい雰囲気でよかったです。
+
+[miguel0201](https://github.com/miguel0201): 楽しかったこと
+1. 周りの方と話しつつ何をしようか考えたりruby自体の面白さについて聞いたり布教したりできたこと
+2. Matzさんとお話しし、rubyのソースコードについてやどういったこと考えて言語を作っているのかを聞けたこと
+3. 美味しいご飯を食べれたこと
+
+[ryotatake](https://github.com/ryotatake): とても楽しかったです！Rubyのソースコードに手を加えるのはハードルが高いと感じていましたが、シンプルな変更であれば簡単に行うことができて、Rubyとの距離が近くなりました。また、困った時にすぐにShugoさんに見ていただいて解決できたことも大変ありがたかったです。
+
+[ryz310](https://github.com/ryz310): 近くの席の若者達とコーディングについて色々語れて楽しかったです。
+また、 Matz も来てくれたので若者と一緒にディスカッションができたのは最高の体験でした。
+
+[souldew](https://github.com/souldew): 周りのいろんな人と話ができて楽しかった。
+
+[tikkss](https://github.com/tikkss): 楽しかったです。Ruby を自分で直してデバッグできる方法がわかったので。
+
+[u1tnk](https://github.com/u1tnk): 楽しかったです！
+普段ハードル高く触る機会の無いMRIを動かすことができました。
+困ったらすぐ聞けるのはすごい。
+
+[yuporon](https://github.com/yuporon): 初めて自分でコンパイルできて、とても嬉しかったです。
+Rubyのメソッドがこういう仕組みで作られているんだと知ることができたのも良かったです！
+「数字を足すだけのメソッド」は簡単なのかと思いきや、オーバーフローの考慮やさまざまな条件分岐が必要で、こんなに繊細なことをしないといけないのかと驚きました。普段何気なく使っているRubyの裏側にある積み重ねを知り、改めて開発者の方々への感謝を感じました。
+Matzさんとも直接お話しでき、これからのRubyの展望を伺うこともできて、とても濃い時間を過ごせました。
+
+##### etc
+
+[dak2](https://github.com/dak2): Box のパッチ書いてたんですが、fiddle の bundled gems の CI テストが落ちるのなんでだ...><
+
+[kaisumi](https://github.com/kaisumi): 結局最後までビルドが通りませんでした...細かく見てみようと思います。
+
+[laraochan](https://github.com/laraochan): また来年もRubyKaigiに参加できたらこちらのイベントに参加したいです！
+
+[miguel0201](https://github.com/miguel0201): 最高の時間でした! 次回もあれば参加します...!
+
+[ryotatake](https://github.com/ryotatake): また来年以降も参加できたら参加したいと思いました。企画ありがとうございました！
+
+[ryz310](https://github.com/ryz310): 他の人と話せるまでに 30 分くらいかかったので、懇親会の進行として、最初に各テーブルで自己紹介タイムとかやると良さそうに思いました。
+
+[souldew](https://github.com/souldew): とても楽しかったです。
+
+[tikkss](https://github.com/tikkss): ネットワークが速くて快適でした！
+
+[u1tnk](https://github.com/u1tnk): 初めて参加しましたが、隣でMatzに色々教えてるのを見れたし、自分でビルドしたrubyもちゃんと動いたし、楽しめました。
+酒飲む会以外もあった方が良いと思うので是非続けてください。多様性は善！
+
+[yuporon](https://github.com/yuporon): _No response_
+
 ### Theme 3: RubyGems/Bundler by hsbt
 
 10 + hsbt
@@ -168,6 +245,45 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | tanaka_akr         | tanaka_akr       |
 | willnet            | willnet          |
 
+##### fun
+
+[Hitoshi-Noborikawa](https://github.com/Hitoshi-Noborikawa): 楽しかったです。コードを書いて話すのが楽しかった。
+
+[Yuhi-Sato](https://github.com/Yuhi-Sato): rubygemsインコントリビュートできたこと
+
+[akagire](https://github.com/akagire): - hsbt さんの bundler エコシステムにおける意思決定についてお話を盗み聞きできた
+- なかなかみない gem の中身を眺める時間に没頭できた
+
+[akr](https://github.com/akr): 新しいことを勉強した。
+
+[nissyi-gh](https://github.com/nissyi-gh): この機会を通じて、初めて ruby/rubygemsをforkしたり、gemのコードを追ってみたり、修正のPRを出したりできたことが楽しかったです！
+
+また、最初に何をやるか迷っていたときに、よさげなissueを見つけたものの、着手すべきかどうかを迷っていました。そのとき、hsbtさんに直接相談できる機会をもらえた上に、実装のアドバイスまでもらえて何をやるか決められました。とても嬉しかったです。
+
+[otsuboa](https://github.com/otsuboa): ドキュメントのみですが、初めて https://guides.rubygems.org/ に PR を出せました。
+PR を出す勇気をもらえたのがいちばんの収穫です。
+
+[willnet](https://github.com/willnet): 普段見ないbundlerのコードと戯れる機会ができて楽しかったです！
+
+##### etc
+
+[Hitoshi-Noborikawa](https://github.com/Hitoshi-Noborikawa): 環境構築や、取り組める issue などを見つけて取り組むことができてとても良い経験をできました！
+ありがとうございました！
+
+[Yuhi-Sato](https://github.com/Yuhi-Sato): ご飯おいしかったです！
+
+[akagire](https://github.com/akagire): _No response_
+
+[akr](https://github.com/akr): _No response_
+
+[nissyi-gh](https://github.com/nissyi-gh): これからbundler/gemコマンドで何か気づいたことがあればissueを立てたりPRを送ったりできそうです！楽しい時間をありがとうございました。
+
+また、お弁当がとても美味しかったです🙌
+
+[otsuboa](https://github.com/otsuboa): ありがとうございました！！
+
+[willnet](https://github.com/willnet): 隣の人くらいしか会話のきっかけがないので、専用のdiscordもしくはslackチャンネルがあるとやってることを共有しあえて楽しいかなと思いました(そうすると逆に声を出して会話しなくなりそうで諸刃の剣ではありますが)
+
 ### Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
 
 7 + matz
@@ -181,6 +297,58 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | ramusara         | ramusara       |
 | yasulab          | yasulab        |
 | yuji_teshima     | yuji_teshima   |
+
+##### fun
+
+[Yuma2000](https://github.com/Yuma2000): はじめて電子工作をしてPicoRubyも触れてとても楽しかったです！普段はソフトウェアだけで完結するデバッグもハードウェアが組み合わさり新しい体験ができました。キットを購入することができたので帰ってからも楽しめそうです！
+
+[kyamaguchi](https://github.com/kyamaguchi): 手ぶらでの参加からで最初不安でしたが、キットも手に入り、チュートリアルのものを動かせたのでとてもよかった。
+
+[okuramasafumi](https://github.com/okuramasafumi): yuuuさんとhasumikinさんにがっつりメンタリングしてもらってとても楽しかったです！
+
+[ramu](https://github.com/ramu): ・他の方が楽しそうにお話されている雰囲気がとても良かった
+・初参加の私にも積極的に声掛けて頂けてありがたかったです
+
+楽しかったです！
+
+[tomoasleep](https://github.com/tomoasleep): 楽しかったです！！
+picoruby 初心者で、周りの人々に色々相談しながら picoruby をビルドしたり、ディスプレイに表示する方法を調べたりやってみたり、他の人が何してるか見てみたのですが、1人よりも圧倒的に進んだのと、色々おもしろいのを見れたので沼にハマってしまいそうです！！！_
+
+[yasulab](https://github.com/yasulab): hasumikin さんが近くにいたので後述するプルリクを出しやすくて良かったです...!! 💎✨
+
+##### etc
+
+[Yuma2000](https://github.com/Yuma2000): 開催ありがとうございました！PicoPicoRubyの方々にも丁寧に教えていただいてとても楽しく学ぶことができました。改めてRubyコミュニティの温かさを感じました。ありがとうございました。
+
+[kyamaguchi](https://github.com/kyamaguchi): PicoRubyでは弁当の手配が2グループに別れていたところや、手ぶらでの参加者どうするかで、最初不安になっていましたが、
+PicoRubyのコミュニティの方々のサポートのおかげで楽しく終わりました。
+感謝です。
+
+[okuramasafumi](https://github.com/okuramasafumi): この会はめっちゃ進捗するのでとても良いですね。
+
+[ramu](https://github.com/ramu): コード懇親会の内容と、PicoPicoRuby の meetup ? が混ざっているのが最初よく分からなかったです。
+( ただ、ANDPAD の方が入場のフォロー、その後は PicoPicoRuby の方にフォロー頂いたので助かりました。ありがとうございました )
+
+[tomoasleep](https://github.com/tomoasleep): また事ある毎に参加したいです！！！
+
+[yasulab](https://github.com/yasulab): コード懇親会で見つけた PicoRuby チュートリアル内の最新版をダウンロードできないバグを修正できたので満足です...!! (Merged) ☺️☺️
+
+- https://x.com/yasulab/status/2047278063545889006
+- https://github.com/picoruby/picoruby.github.io/pull/29
+
+### External: PicoPicoRuby
+
+#### Feedback
+
+1
+
+##### fun
+
+[risgk](https://github.com/risgk): PicoPicoRubyメンバーと交流できて楽しかった
+
+##### etc
+
+[risgk](https://github.com/risgk): 来年も参加したいです
 
 ### Theme 5: Ruby x Rust by udzura and ahogappa
 
@@ -200,3 +368,39 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 | takaokouji       | takaokouji    |
 | tomoasleep       | Tomoya Chiba  |
 | yuriko1211ab     | yuriko        |
+
+##### fun
+
+[ahogappa](https://github.com/ahogappa): 楽しかったです。Rustを書く楽しさを色々伝えられたと思う
+
+[maru3460](https://github.com/maru3460): rustを触ったことはなかったのですが、rubyから呼び出したりjsonパーサーを動かすところまで行けて楽しかったです！
+
+[niwaniwa](https://github.com/niwaniwa): Rubyのgemを実際にrustで書いて作ることが体験できて楽しかったです!
+
+[t-daisuke](https://github.com/t-daisuke): Gemを作るのも、Rustで書いたものをRubyで呼び出すのも初めてだったのですが、資料などがわかりやすくてスイスイ進んで心地よかったです！ぜひ何かアウトプットに繋げたいです！
+
+[takaokouji](https://github.com/takaokouji): 今日は楽しかったです。AIが生成したRust製のRuby拡張ライブラリを理解していました。自分が依頼してClaudeに作成してもらったのにそれが理解できていないという残念な状況だったのですが、改善されました。
+
+[udzura](https://github.com/udzura): 楽しかったです！！！１
+- 会が進むにつれペアプロをしたり、成果物が出たりして良かった
+- RubyKaigiなのにRustを書いてもらう背徳感が良かった（え...）
+
+[yuriko1211](https://github.com/yuriko1211): - 楽しかった！
+- Rust何もわからないのにGemが作れて感動した
+
+##### etc
+
+[ahogappa](https://github.com/ahogappa): 特になし！ありがとうございました
+
+[maru3460](https://github.com/maru3460): _No response_
+
+[niwaniwa](https://github.com/niwaniwa): 今日はありがとうございました
+
+[t-daisuke](https://github.com/t-daisuke): 途中で別のグループの様子をみようかと思ったのですが、楽しくて気づいたら終わってた
+
+[takaokouji](https://github.com/takaokouji): とてもよかったです。今後もぜひ参加したいです。
+
+[udzura](https://github.com/udzura): 会の中で何かを発表したりするのはむずいかも...。
+
+[yuriko1211](https://github.com/yuriko1211): - 思い切ってRustグループに参加してよかったです
+- 来年もまた参加したい！

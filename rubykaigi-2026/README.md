@@ -340,13 +340,19 @@ PicoRubyのコミュニティの方々のサポートのおかげで楽しく終
 
 #### Feedback
 
-1
+2
 
 ##### fun
+
+[engneer-hamachan](https://github.com/engneer-hamachan): XやDiscordで繋がってい
+た人とリアルで話せて楽しかったです！✨
 
 [risgk](https://github.com/risgk): PicoPicoRubyメンバーと交流できて楽しかった
 
 ##### etc
+
+[engneer-hamachan](https://github.com/engneer-hamachan): 準備等すごい大変だった
+とは思うのですが、また是非開催して欲しいです！
 
 [risgk](https://github.com/risgk): 来年も参加したいです
 

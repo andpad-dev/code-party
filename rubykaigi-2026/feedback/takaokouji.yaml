@@ -9,7 +9,7 @@ questions:
     |
     今日は楽しかったです。AIが生成したRust製のRuby拡張ライブラリを理解していました。自分が依頼してClaudeに作成してもらったのにそれが理解できていないという残念な状況だったのですが、改善されました。
   groups:
-    - Theme 5: Ruby x Rust by udzura and ahogappa
+    - Ruby x Rust
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.

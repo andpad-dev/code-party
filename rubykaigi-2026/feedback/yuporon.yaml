@@ -1,0 +1,29 @@
+# アンドパッド (andpad_dev) は X (旧 Twitter) で技術情報や採用情報などを発信しています。 ぜひフォローください!
+# ANDPAD (andpad_dev) shares technical information, job openings, and more on X (formerly Twitter). Please be sure to follow them!
+questions:
+  fun:
+    # 楽しかったですか？
+    # Did you have fun?
+    # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
+    # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
+    |
+    初めて自分でコンパイルできて、とても嬉しかったです。
+    Rubyのメソッドがこういう仕組みで作られているんだと知ることができたのも良かったです！
+    「数字を足すだけのメソッド」は簡単なのかと思いきや、オーバーフローの考慮やさまざまな条件分岐が必要で、こんなに繊細なことをしないといけないのかと驚きました。普段何気なく使っているRubyの裏側にある積み重ねを知り、改めて開発者の方々への感謝を感じました。
+    Matzさんとも直接お話しでき、これからのRubyの展望を伺うこともできて、とても濃い時間を過ごせました。
+  groups:
+    # どのグループに参加しましたか？
+    # Which groups did you join?
+    - Theme 2: Ruby by [shugo](https://github.com/shugo/)
+  etc:
+    # なにか思ったことがあれば自由に書いてください。
+    # Please give us any feedback.
+    |
+    _No response_
+  # 宣伝: 今日はご参加ありがとうございました！ 明日の Day3 もアンドパ
+  # ッドブースは元気にやっております。 ランチとドリンクも用意してるか
+  # ら、ぜひ遊びに来てね！
+  #
+  # Ad: Thanks for coming tonight! Don't forget, the ANDPAD booth will
+  # be back in action for Day 3. We've got lunch and drinks waiting
+  # for you, so make sure to swing by and say hi!

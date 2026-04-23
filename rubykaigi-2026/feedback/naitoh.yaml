@@ -4,10 +4,10 @@ questions:
   fun:
     # 楽しかったですか？
     # Did you have fun?
-    楽しかったです！
     # 楽しかった場合はどういう部分が楽しかったかも教えてください。（例：Ruby書くことそのものが楽しかった、●●のgemの作者とお話できたから、など）
     # If you had fun, what kind of part was fun?（e.g. Because I was able to talk with the author of ●●gem, Ruby it was fun to write, etc.）
     |
+    楽しかったです！
     dRubyの分散オブジェクトの世界に入れて楽しかったです！
   groups:
     # どのグループに参加しましたか？

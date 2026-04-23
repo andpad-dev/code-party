@@ -11,8 +11,7 @@ questions:
   groups:
     # どのグループに参加しましたか？
     # Which groups did you join?
-    - Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz
-    https://github.com/andpad-dev/code-party/blob/main/rubykaigi-2026/README.md#theme-4-mrubypicoruby-by-picopicoruby-hasumikin-and-matz
+    - "Theme 4: mruby/PicoRuby by PicoPicoRuby, hasumikin and matz"
   etc:
     # なにか思ったことがあれば自由に書いてください。
     # Please give us any feedback.

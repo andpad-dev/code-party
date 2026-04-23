@@ -134,24 +134,36 @@ The concept of code party is "If you are writing code fun even alone, it is fun 
 
 #### Feedback
 
-3
+4
 
 ##### fun
 
-[n3xem](https://github.com/n3xem): 楽しかったです！dRuby 実際に触るのが初めてだったので、いい取っ掛かりになりました。sekiさんとお話しできたのも楽しかったです
+[jxmtst](https://github.com/jxmtst): 楽しかったです！
+昨年も参加したのですが、dRubyに対する解像度が上がってより楽しめました。
+
+[n3xem](https://github.com/n3xem): 楽しかったです！dRuby 実際に触るのが初めてだ
+ったので、いい取っ掛かりになりました。sekiさんとお話しできたのも楽しかったです
 
 [naitoh](https://github.com/naitoh): 楽しかったです！
 dRubyの分散オブジェクトの世界に入れて楽しかったです！
 
-[zunda](https://github.com/zunda): 楽しかったです！作者の方の深い解説を聞かせていただいて、現代では期待しない挙動（URIにIPv6アドレスがある場合に`[]`で囲まれない）をみつけることもできました。
+[zunda](https://github.com/zunda): 楽しかったです！作者の方の深い解説を聞かせて
+いただいて、現代では期待しない挙動（URIにIPv6アドレスがある場合に`[]`で囲まれな
+い）をみつけることもできました。
 
 ##### etc
 
-[n3xem](https://github.com/n3xem): いろいろサポートしていただきありがとうございました！
+[jxmtst](https://github.com/jxmtst): 来年も是非開催していただいて参加したいです
+！
+来年は延長コードを時前で持ってこようと思いました。
+
+[n3xem](https://github.com/n3xem): いろいろサポートしていただきありがとうござい
+ました！
 
 [naitoh](https://github.com/naitoh): また次回も参加します！
 
-[zunda](https://github.com/zunda): グループごとに静かな環境があればよりよかったと思いますが、実現するのは難しそうですよね〜
+[zunda](https://github.com/zunda): グループごとに静かな環境があればよりよかった
+と思いますが、実現するのは難しそうですよね〜
 
 ### Theme 2: Ruby by shugo
 
@@ -171,6 +183,10 @@ dRubyの分散オブジェクトの世界に入れて楽しかったです！
 | souldew          | takady          |
 | tikkss           | Tsutomu Katsube |
 | u1tnk            | u1tnk           |
+
+#### Feedback
+
+10
 
 ##### fun
 
@@ -245,6 +261,10 @@ Matzさんとも直接お話しでき、これからのRubyの展望を伺うこ
 | tanaka_akr         | tanaka_akr       |
 | willnet            | willnet          |
 
+#### Feedback
+
+7
+
 ##### fun
 
 [Hitoshi-Noborikawa](https://github.com/Hitoshi-Noborikawa): 楽しかったです。コードを書いて話すのが楽しかった。
@@ -297,6 +317,10 @@ PR を出す勇気をもらえたのがいちばんの収穫です。
 | ramusara         | ramusara       |
 | yasulab          | yasulab        |
 | yuji_teshima     | yuji_teshima   |
+
+#### Feedback
+
+6
 
 ##### fun
 
@@ -374,6 +398,10 @@ PicoRubyのコミュニティの方々のサポートのおかげで楽しく終
 | takaokouji       | takaokouji    |
 | tomoasleep       | Tomoya Chiba  |
 | yuriko1211ab     | yuriko        |
+
+#### Feedback
+
+7
 
 ##### fun
 

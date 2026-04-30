@@ -396,19 +396,23 @@ PicoRubyのコミュニティの方々のサポートのおかげで楽しく終
 
 #### Feedback
 
-2
+3
 
 ##### fun
 
-[engneer-hamachan](https://github.com/engneer-hamachan): XやDiscordで繋がってい
-た人とリアルで話せて楽しかったです！✨
+[engneer-hamachan](https://github.com/engneer-hamachan): XやDiscordで繋がっていた人とリアルで話せて楽しかったです！✨
+
+[kishima](https://github.com/kishima): PicoRubyに興味をもってくれた方とふれあうことができて楽しかったです
 
 [risgk](https://github.com/risgk): PicoPicoRubyメンバーと交流できて楽しかった
 
 ##### etc
 
-[engneer-hamachan](https://github.com/engneer-hamachan): 準備等すごい大変だった
-とは思うのですが、また是非開催して欲しいです！
+[engneer-hamachan](https://github.com/engneer-hamachan): 準備等すごい大変だったとは思うのですが、また是非開催して欲しいです！
+
+[kishima](https://github.com/kishima): メンター的なことを当日はしましたが、事前に特に準備してなかったので、ファームウェア焼くところでだいぶ手間を掛けさせてしまって申し訳なかった。局所的には思ったよりワークショップっぽい雰囲気になってたので、ちゃんと手順を事前にレビューしたりバイナリ準備してから臨みたいなと思った。あと何でもは対応しきれないので、初心者の方が持ち込む想定デバイスは１，２種類に限定するなど。
+
+いずれにせよ、楽しいイベントでした。運営ありがとうございました。また機会がありましたら参加してみたいです。
 
 [risgk](https://github.com/risgk): 来年も参加したいです
 

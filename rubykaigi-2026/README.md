@@ -189,11 +189,14 @@ dRubyの分散オブジェクトの世界に入れて楽しかったです！
 
 #### Feedback
 
-11
+12
 
 ##### fun
 
 [dak2](https://github.com/dak2): 色んな人と交流しながら Ruby 触るの楽しかったです
+
+[hashimoto-kei](https://github.com/hashimoto-kei): めちゃくちゃ楽しかったです！🥳
+須藤さん、前田さん、Matz さんに CRuby のソースコードの読み方やデバッグ方法を教えていただいてとても勉強になりました！✨
 
 [kaisumi](https://github.com/kaisumi): 面白かったです！OSS活動をする心構えが、普段の開発姿勢と大きく異なっていて驚きました。OSS活動での姿勢はポジティブなのが良いなと思っており、興味を持ちました。
 
@@ -231,6 +234,9 @@ Matzさんとも直接お話しでき、これからのRubyの展望を伺うこ
 ##### etc
 
 [dak2](https://github.com/dak2): Box のパッチ書いてたんですが、fiddle の bundled gems の CI テストが落ちるのなんでだ...><
+
+[hashimoto-kei](https://github.com/hashimoto-kei): 去年も参加させていただきましたが、今年も最高に楽しかったです！✨
+来年も最高に楽しめるようにもっと Ruby のことを知りたいです！🥳
 
 [kaisumi](https://github.com/kaisumi): 結局最後までビルドが通りませんでした...細かく見てみようと思います。
 
